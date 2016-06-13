@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[structuralreality]]></title>
+        <description><![CDATA[structuralreality]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 13 Jun 2016 16:20:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[model view]]></title>
+            <description><![CDATA[<article><h1>model view</h1><p>The power of BIM modelling in structural analysis and design.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1096c273-f5f3-44e4-8bd1-abf596fdf104.jpg"></article>]]></description>
+            <link>undefinedmodel-view/index.html</link>
+            <guid isPermaLink="false">54e59f1d-d730-42e3-9a48-9a7847b32f16</guid>
+            <pubDate>Mon, 13 Jun 2016 16:20:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
